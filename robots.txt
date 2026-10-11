@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/total-bowel-release-gut-health-us-ca-uk-au-nz/sitemap.xml
+Sitemap: https://total-bowel-release-gut-health-us-ca-uk-au-nz.vercel.app/sitemap-vercel.xml
+Sitemap: https://total-bowel-release-gut-health-us-ca-uk-au-nz.pages.dev/sitemap-cloudflare.xml
